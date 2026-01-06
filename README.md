@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-**My name is Salman Farsy. I like to write code and collaborate with people.
+**My name is Salman Farsy. I like to write code and collaborate with people.**
 
 Here is some of my knowledge that I learned from these lessons.
 
