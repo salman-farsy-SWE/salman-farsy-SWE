@@ -1,6 +1,7 @@
 ## Hey there 👋
 
-![Salman Farsy](https://static.vecteezy.com/system/resources/thumbnails/044/313/828/small/summer-background-sandy-beach-ocean-and-seashells-blue-sky-product-presentation-seasonal-template-with-copy-space-area-aesthetic-banner-free-photo.jpg)<br>
+![Salman Farsy](https://static.vecteezy.com/system/resources/thumbnails/044/313/828/small/summer-background-sandy-beach-ocean-and-seashells-blue-sky-product-presentation-seasonal-template-with-copy-space-area-aesthetic-banner-free-photo.jpg)
+
 I'm a software engineer who enjoys turning ideas into well-structured, production-ready software.
 
 - I like breaking down complex problems
