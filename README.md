@@ -8,6 +8,7 @@ I'm a software engineer who enjoys turning ideas into well-structured, productio
 
 **Currently working on**
 - Backend services
+- UI & UX services
 - System design improvements
 - Side projects to explore new tools
 
