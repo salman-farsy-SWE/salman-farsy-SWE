@@ -12,5 +12,4 @@ I'm a software engineer who enjoys turning ideas into well-structured, productio
 - Side projects to explore new tools
 
 **Tech**
-
 JavaScript . TypeScript · Python · Java · Node.js · Django. FastAPI . React · Next.js . PostgreSQL · SQL . NoSQL . Docker . Kubernetes . Socket Programming . WebSocket
