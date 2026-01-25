@@ -1,5 +1,6 @@
 ## Hey there 👋
 
+![Alt text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0QeSfeN1lkLe2_ljJKyaxmmI1gPhts5rJey51AYkJMXGz1bpAeUwxqlc&s)
 I'm a software engineer who enjoys turning ideas into well-structured, production-ready software.
 
 - I like breaking down complex problems
