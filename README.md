@@ -6,13 +6,13 @@ I'm a software engineer who enjoys turning ideas into well-structured, productio
 
 - I like breaking down complex problems
 - I value code clarity over cleverness
-- I enjoy learning how systems work under the hood
+- I enjoy learning systems how they work under the hood
 
 **Currently working on**
 - Backend services
 - UI & UX services
 - System design improvements
-- Side projects to explore new tools
+- Always curious to explore new tools
 
 **Tech**<br>
 JavaScript . TypeScript · Python · Java · Node.js · Django. FastAPI . React · Next.js . PostgreSQL · SQL . NoSQL . Docker . Kubernetes . Socket Programming . WebSocket
