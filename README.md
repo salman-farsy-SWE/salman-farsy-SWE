@@ -1,18 +1,63 @@
 ## Hey there 👋
 
-<img src="https://static.vecteezy.com/system/resources/thumbnails/044/313/828/small/summer-background-sandy-beach-ocean-and-seashells-blue-sky-product-presentation-seasonal-template-with-copy-space-area-aesthetic-banner-free-photo.jpg" width="500" height="300" alt="Salman Farsy">
+<img src="https://static.vecteezy.com/system/resources/thumbnails/044/313/828/small/summer-background-sandy-beach-ocean-and-seashells-blue-sky-product-presentation-seasonal-template-with-copy-space-area-aesthetic-banner-free-photo.jpg" width="600" height="300" alt="Salman Farsy">
 
-I'm a software engineer who enjoys turning ideas into well-structured, production-ready software.
+## About Me
 
-- I like breaking down complex problems
-- I value code clarity over cleverness
-- I enjoy learning systems how they work under the hood
+I'm a **Software Engineer** focused on designing scalable, reliable, and production-ready software. I enjoy transforming complex ideas into clean, maintainable systems with a strong emphasis on architecture, performance, and developer experience.
 
-**Currently working on**
-- Backend services
-- UI & UX services
-- System design improvements
-- Always curious to explore new tools
+I believe great software is built through thoughtful engineering, clear design, and continuous learning.
 
-**Tech**<br>
-JavaScript . TypeScript · Python · Java · Node.js · Django. FastAPI . React · Next.js . PostgreSQL · SQL . NoSQL . Docker . Kubernetes . Socket Programming . WebSocket
+---
+
+## What Drives Me
+
+- 💡 Breaking down complex problems into simple, elegant solutions.
+- ✨ Writing clean, readable, and maintainable code over clever shortcuts.
+- ⚙️ Understanding how systems work under the hood—from low-level concepts to distributed systems.
+- 📚 Continuously learning, improving, and exploring new technologies.
+
+---
+
+## Currently Working On
+
+- 🚀 Scalable Backend Services
+- 🎨 Modern UI & UX Development
+- 🏗️ System Design & Architecture
+- 🔍 Exploring New Tools & Technologies
+
+---
+
+## Tech Stack
+
+### Languages
+- JavaScript
+- TypeScript
+- Python
+- Java
+
+### Backend
+- Node.js
+- Django
+- FastAPI
+
+### Frontend
+- React
+- Next.js
+
+### Databases
+- PostgreSQL
+- SQL
+- NoSQL(MongoDB)
+
+### DevOps & Infrastructure
+- Docker
+- Kubernetes
+
+### Networking
+- Socket Programming
+- WebSockets
+
+---
+
+> *"Build software that is simple to understand, reliable to operate, and enjoyable to maintain."*
