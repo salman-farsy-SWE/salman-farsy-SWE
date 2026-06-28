@@ -1,6 +1,6 @@
 ## Hey there 👋
 
-<img src="https://static.vecteezy.com/system/resources/thumbnails/044/313/828/small/summer-background-sandy-beach-ocean-and-seashells-blue-sky-product-presentation-seasonal-template-with-copy-space-area-aesthetic-banner-free-photo.jpg" width="600" height="300" alt="Salman Farsy">
+<img src="https://static.vecteezy.com/system/resources/thumbnails/044/313/828/small/summer-background-sandy-beach-ocean-and-seashells-blue-sky-product-presentation-seasonal-template-with-copy-space-area-aesthetic-banner-free-photo.jpg" width="600" height="320" alt="salman-farsy">
 
 ## About Me
 
@@ -48,7 +48,7 @@ I believe great software is built through thoughtful engineering, clear design, 
 ### Databases
 - PostgreSQL
 - SQL
-- NoSQL(MongoDB)
+- NoSQL (MongoDB)
 
 ### DevOps & Infrastructure
 - Docker
